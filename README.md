@@ -4,3 +4,5 @@ This portfolio contains projects I have conducted over several years, majorly in
   * Analysing NFL Statistics Using Python, a Casestudy
   * "'Straight Outta Compton' is The Rare Biopic Not About White Dudes": A Recreation of Analysis first done by FiveThirtyEight
   * Cleaning US Census Data
+  * Using Kahoot! to teach statistics: how does gamification implementation impact coding attitudes in students?
+     * This is a copy of my dissertation project, with some personal details redacted, which was fully conducted using R to create a linear mixed effects regression model.
