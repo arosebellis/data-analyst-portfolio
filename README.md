@@ -6,3 +6,6 @@ This portfolio contains projects I have conducted over several years, majorly in
   * Cleaning US Census Data
   * Using Kahoot! to teach statistics: how does gamification implementation impact coding attitudes in students?
      * This is a copy of my dissertation project, with some personal details redacted, which was fully conducted using R to create a linear mixed effects regression model.
+  * Premier League Football as a generator of crime: a spatial analysis of stop and search statistics surrounding mass gatherings
+     * https://github.com/arosebellis/wtids - This is a link to the github repository containing the analysis for the project.
+  * The research proposal for my current thesis: Real-time detection of fraudulent credit-card transactions using a temporal convolutional autoencoder hybrid model.
